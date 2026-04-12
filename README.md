@@ -26,3 +26,7 @@ The system exhibits:
 
 ## Author
 Manuel N.
+
+
+
+https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%201.png?raw=true
