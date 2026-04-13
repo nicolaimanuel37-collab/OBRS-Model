@@ -33,7 +33,7 @@ class OBRSModel:
         p = self.p
 
         # Sorveglianza
-        dS = p["e1"] * (P ** k) - p["e2"] * S_prev
+        dS = p["e1"] * ((P/0.5)) - p["e2"] * S_prev
 
         # Oncogenesi (NON LINEARE FORTE)
         dO = (
