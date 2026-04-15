@@ -57,7 +57,7 @@ The system demonstrates:
 .
 
 ## Bifurcation Analysis
-![Graph1](https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%201.png?raw=true
+![Graph1](https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%201.png?raw=true)
 ## Phase Space Dynamics
 ![Graph2](https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%202.png?raw=true)
 
