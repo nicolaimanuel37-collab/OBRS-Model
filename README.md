@@ -51,20 +51,15 @@ The system demonstrates:
 
 ---
 
+
+
+
+.
+
 ## Bifurcation Analysis
-
-![Bifurcation Diagram](graph1.png)
-
----
-
+![Graph1](https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%201.png?raw=true
 ## Phase Space Dynamics
-
-![Phase Space](graph2.png)
-
----
+![Graph2](https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%202.png?raw=true)
 
 ## Author
-Manuel N.
-
-![Graph1](https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%201.png?raw=true)
-![Graph2](https://github.com/nicolaimanuel37-collab/OBRS-Model/blob/main/Graph%202.png?raw=true)
+Manuel N
